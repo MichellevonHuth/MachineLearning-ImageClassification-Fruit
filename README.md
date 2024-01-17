@@ -6,7 +6,7 @@ This repository contains the code and documentation for a machine learning proje
 
 ## Dataset
 
-The dataset used in this project consists of approximately 12,000 augmented images of fresh and rotten fruit varieties. The images were sourced from [this website](https://data.mendeley.com/datasets/bdd69gyhv8/1). Proper attribution and acknowledgment to the data source are essential.
+The dataset used in this project consists of approximately 12,000 augmented images of fresh and rotten fruit varieties. The images were sourced from [this website](https://data.mendeley.com/datasets/bdd69gyhv8/1). 
 
 ## Authors
 
