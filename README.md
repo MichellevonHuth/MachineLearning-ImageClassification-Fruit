@@ -34,7 +34,7 @@ To answer the core research question, "How does the choice of supervised machine
 
 Visualized in Figure 2, provides a clear and justified overview of the steps taken to prepare the data and train the models. 
 
-![Data processing and training strategy flow.](https://github.com/MichellevonHuth/MachineLearning-ImageClassification-Fruit/assets/56582203/27cfe442-dd5a-460a-9e87-7f33fd1f84f7)
+![Data processing and training strategy flow.](https://github.com/MichellevonHuth/MachineLearning-ImageClassification-Fruit/assets/56582203/0b89f136-f89c-449c-95be-ecce5a01d801)
 
 
 
