@@ -28,12 +28,14 @@ The detailed report, titled "Promoting Sustainable Food Systems: A Comparative S
 
 To answer the core research question, "How does the choice of supervised machine learning approach impact the performance of classifying fresh and rotten fruit?" we developed and adhered to the conceptual framework depicted in Figure 1. 
 
-![Conceptual Framework](<img width="454" alt="image" src="https://github.com/MichellevonHuth/MachineLearning-ImageClassification-Fruit/assets/56582203/29c7df9d-cd5b-4183-a394-ba89d6893adf">)
+![Conceptual Framework](![ConceptualFramework](https://github.com/MichellevonHuth/MachineLearning-ImageClassification-Fruit/assets/56582203/e4aabaf2-64a9-4fbb-a389-84d8fa53ef7b)
+)
 
 
 Visualized in Figure 2, provides a clear and justified overview of the steps taken to prepare the data and train the models. 
 
-![Data processing and training strategy flow.](<img width="211" alt="image" src="https://github.com/MichellevonHuth/MachineLearning-ImageClassification-Fruit/assets/56582203/817e8503-0e25-4be4-b5c5-dde43d930e95">)
+![Data processing and training strategy flow.](![Method](https://github.com/MichellevonHuth/MachineLearning-ImageClassification-Fruit/assets/56582203/27cfe442-dd5a-460a-9e87-7f33fd1f84f7)
+)
 
 
 ## How to Use
